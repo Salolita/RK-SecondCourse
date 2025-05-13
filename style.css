@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Dana;
+    src: url(DanaFaNum-Medium.ttf);
+}
+
+div {
+    font-family: Dana;
+    font-size: 1rem;
+}
+
+button {
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+}
