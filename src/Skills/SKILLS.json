@@ -1,0 +1,26 @@
+[
+    {
+        "Number": "1",
+        "Skill": "Programing",
+        "image": "https://programing-skill.saleh-azizi.ir/boy-programing.JPG",
+        "history": "4 year"
+    },
+    {
+        "Number": "2",
+        "Skill": "Robotic",
+        "image": "https://robotic-skill.saleh-azizi.ir/boy-robotic.JPG",
+        "history": "7 year"
+    },
+    {
+        "Number": "3",
+        "Skill": "Teaching",
+        "image": "https://teaching-skill.saleh-azizi.ir/boy-teaching.JPG",
+        "history": "4 year"
+    },
+    {
+        "Number": "4",
+        "Skill": "Design",
+        "image": "https://design-skill.saleh-azizi.ir/boy-design.JPG",
+        "history": "2 year"
+    }
+]
